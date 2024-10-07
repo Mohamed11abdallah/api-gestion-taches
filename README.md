@@ -107,3 +107,7 @@ L'API sera disponible sur http://localhost:3000.
 - MySQL : Base de données relationnelle.
 - Express-validator : Pour la validation des données d'entrée.
 - dotenv : Pour gérer les variables d'environnement.
+
+## Auteur
+
+[Mohamed Abdallahi M'khaitir](https://github.com/Mohamed11abdallah)
